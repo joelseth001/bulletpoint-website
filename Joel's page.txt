@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BULLET POINT</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 40px;
+      background: #f9f9f9;
+      color: #222;
+      line-height: 1.6;
+    }
+    header, section {
+      max-width: 800px;
+      margin: 0 auto 40px auto;
+    }
+    h1, h2 {
+      color: #111;
+    }
+    .highlight {
+      font-weight: bold;
+      color: #e60000;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Connected anytime, anywhere</h1>
+  <p>Stay in touch with loved ones through your trusted smart device.</p>
+</header>
+
+<section>
+  <h2>On-Demand Mobile Top-up</h2>
+  <p>Get mobile top-ups whenever you need them. Staying connected should never slow you down.</p>
+</section>
+
+<section>
+  <h2>Top-Up Everything, Everywhere</h2>
+  <p>
+    With <span class="highlight">BULLET POINT</span>, you can recharge your phone and 
+    keep track of all your services in one place.
+  </p>
+</section>
+
+<section>
+  <h2>All Your Credit. One App.</h2>
+  <p>Make and manage transactions with confidence.</p>
+</section>
+
+<section>
+  <h2>Your convenience, our focus</h2>
+  <p><span class="highlight">BULLET POINT</span> meets your everyday needs with ease, 
+  wherever you are.</p>
+</section>
+
+<section>
+  <h2>Safer, Smarter Payments</h2>
+  <p>Your security is non-negotiable. We use advanced safeguards across all your payment activities.</p>
+</section>
+
+<section>
+  <h2>Seamless Services</h2>
+  <p>Simple. Reliable. Fast.</p>
+</section>
+
+</body>
+</html>
